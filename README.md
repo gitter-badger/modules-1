@@ -1,17 +1,17 @@
 Modules
 =======
 
-A collection of various / modules plug-ins for the hAzzleJS library.
+A collection of various / modules plug-ins for the **hAzzleJS library**.
 
-The difference between hAzzle and other Javascript libraries is that hAzzle has no support for plug-ins. Everything are modules wrapped in a closure with a return object.
+The difference between **hAzzle** and other Javascript libraries is that **hAzzle** has no support for plug-ins. Everything are modules wrapped in a closure with a return object.
 
-This gives you the freedom to create new modules fast, and if you know native Javascript - well, to use hAzzle shouldn't be a problem.
+This gives you the freedom to create new modules fast, and if you know native javascript - well, to use **hAzzle** shouldn't be a problem.
 
-I give here a few modules to show some of the posibilities that hAzzle has. They are not so advanced, but you can create it if you want.
+I give here a few modules to show some of the posibilities that **hAzzle** has. They are not so advanced, but you can create it if you want.
 
-To create advanced modules, you will need to include different modules to the Core that is not part of the hAzzle Core itself. You will find them in the **/modules** folder in the hAzzleJS repo.
+To create advanced modules, you will need to include different modules to the **Core** that is not part of the hAzzle **Core** itself. You will find them in the **/modules** folder in the hAzzleJS repo.
 
-Here is some needed modules you should include:
+#####Here is some needed modules you should include:
 
 * dimensions.js ( position, heigh, width, media queries, scrollbars, viewport e.g.)
 
