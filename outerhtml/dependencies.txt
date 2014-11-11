@@ -1,0 +1,6 @@
+Dependencies:
+
+- manipulation.js
+- clone.js
+
+and the Core itself
