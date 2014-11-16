@@ -1,0 +1,30 @@
+{
+  "name": "hazzle-modules",
+  "version": "1.0.0",
+  "description": "hAzzle animation engine",
+  "main": "fx.js",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --browsers PhantomJS --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hazzlejs/modules.git"
+  },
+  "keywords": [
+    "hAzzle",
+    "modules"
+  ],
+  "author": "Kenny Flashlight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hazzlejs/modules/issues"
+  },
+  "homepage": "https://github.com/hazzlejs/modules",
+  "devDependencies": {
+    "karma": "^0.12.25",
+    "karma-cli": "0.0.4",
+    "karma-mocha": "^0.1.9",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "mocha": "^2.0.1"
+  }
+}

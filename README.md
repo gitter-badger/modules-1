@@ -1,5 +1,6 @@
-Modules
-=======
+# hAzzle Modules
+
+[![Build Status](https://secure.travis-ci.org/hazzlejs/modules.png?branch=master)](http://travis-ci.org/hazzlejs/modules)
 
 A collection of various / modules plug-ins for the **hAzzleJS library**.
 
@@ -16,8 +17,8 @@ To create advanced modules, you will need to include different modules to the **
 * dimensions.js ( position, heigh, width, media queries, scrollbars, viewport e.g.)
 
 * style.js  ( same as in other Javascript libraries)
- 
-* events.js 
+
+* events.js
 
 Scrollbar, view panels, tree panels, sliders e.g. are all easy to create with **hAzzle** if you use the **dimensions.js** module. All values and calculations are done for you, and returned in a **px** unit.
 
@@ -29,4 +30,3 @@ Modules included
 * cookie
 * password
 * json
-
