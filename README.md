@@ -1,4 +1,5 @@
 # hAzzle Modules
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hazzlejs/modules?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://secure.travis-ci.org/hazzlejs/modules.png?branch=master)](http://travis-ci.org/hazzlejs/modules)
 
